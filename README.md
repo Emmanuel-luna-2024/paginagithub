@@ -1,5 +1,4 @@
 # paginagithub
-github pages
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -224,4 +223,4 @@ github pages
     </footer>
 
 </body>
-</html>
+
